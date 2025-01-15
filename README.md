@@ -37,3 +37,8 @@ bun dev
 And you should be good to go!
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the page.
+
+
+## Page working locally
+
+https://www.loom.com/share/bcf97e6366c04fdbb84a20f43aab0775
